@@ -1,4 +1,1 @@
-NRV
----
-
-Welcome to NeuroRealityVision GitHub Page!
+Our company holds the distinction of being the first in the world to mass-produce event-based image sensors, combined with proven expertise in machine learning hardware and software. With a primary focus on low-latency, ultra-high-speed image recognition systems, it aims to become a global leader in AI-powered image processing sensors and application systems.
